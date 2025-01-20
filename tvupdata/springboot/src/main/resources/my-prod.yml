@@ -1,0 +1,12 @@
+logging:
+   level:
+      root: INFO
+      org:
+         springframework.web.servlet.DispatcherServlet: INFO
+      com:
+         spring: INFO
+   pattern:
+      console: '%clr(%d{yyyy-MM-dd HH:mm:ss.SSS}){faint} %clr(%5p) %clr(-){faint} %clr([%thread]){faint} %clr(%-40.40logger{39}){faint}%clr([%F:%L]){cyan} %clr(:){faint} %m%n%wex'
+---
+config:
+   localGit: '/home/docker/git'

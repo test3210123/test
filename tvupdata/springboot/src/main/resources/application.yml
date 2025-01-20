@@ -1,0 +1,15 @@
+server:
+   port: 8083
+   servlet:
+      context-path: /spring
+   
+spring:
+   application:
+      name: spring
+   profiles:
+      active: dev
+   config:
+      import: 
+         - classpath:/my-${spring.profiles.active}.yml
+#         - optional:consul:/config/${spring.application.name};/config/${spring.application.name}/${spring.cloud.consul.discovery.instanceId}
+
