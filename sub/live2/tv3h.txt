@@ -379,7 +379,6 @@ NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$hlj移动
 NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$hlj移动
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
-电影轮播,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$hlj移动
 
 斗鱼1-周星驰,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼2-林正英,https://stream-beijing-ctt-122-70-148-233.edgesrv.com/live/218859rc4qMutuUg.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-218859-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
