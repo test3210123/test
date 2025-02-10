@@ -8,7 +8,7 @@
 // "cu":"https://gitee.com/test3210/test/raw/master/md/cu.json",
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"cu":"aHR0cHM6Ly9naXRlZS5jb20vdGVzdDMyMTAvdGVzdC9yYXcvbWFzdGVyL21kL2N1Lmpzb24=",
+"cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
 "spider":"https://gitee.com/test3210/test/raw/master/sub/jar/l0407.jar;md5;08d1df09a90cd66241f19fde33c07296",
 "lives":[
 {"name":"live-yd","type":0,"url":"https://fastly.jsdelivr.net/gh/test3210123/test@master/sub/live2/tv3b.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/test3210/testlogo/raw/master/logo/{name}.png"},
