@@ -14,6 +14,22 @@
 "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar",
 
 	"sites":[
+    {"key":"csp_xbb_voflix","name":"🍀Voflix HD┃影视","type":3,"api":"csp_XBiubiu","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/voflix.json"},
+
+{"key":"csp_xp_Jumi","name":"💢剧迷TV┃备用","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/Jumi.json"},
+{"key":"csp_xp_dm84","name":"💢动漫巴士┃备用","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/dm84.json"},
+{"key":"csp_xp_yinghua","name":"💢樱花动漫┃备用","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/yinghua.json"},
+{"key":"csp_xp_348z","name":"💢348电影┃备用","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/348z.json"},
+{"key":"csp_xbb_yhzy","name":"💢樱花资源1┃备用","type":3,"api":"csp_XBiubiu", "playUrl":"https://jx.yhzybf.com/player/jx.php?url=","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/yhzy.json"},
+{"key":"csp_Voflix","name":"💢Voflix┃备用","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xbb_789影视","name":"💢789影视┃备用","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/789影视.json"},
+{"key":"csp_xbb_红领巾","name":"💢红领巾┃备用","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/红领巾.json"},
+{"key":"csp_xbb_视中心影院","name":"💢视中心影院┃备用","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/视中心影院.json"},
+{"key":"csp_xbb_139影视","name":"💢139影视┃备用","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/139影视.json"}, 
+{"key":"csp_xbb_sobods","name":"💢真不卡sobods┃备用","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/真不卡sobods.json"},
+{"key":"csp_xp_vip1280","name":"💢VIP电影┃备用","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/vip1280.json"},
+{"key":"csp_xbb_VIP1280","name":"💢VIP1280┃备用","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/VIP1280.json"},
+
 {"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"filterable":1,"changeable":1},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"csp_Jpys","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
