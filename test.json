@@ -14,6 +14,11 @@
 "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar",
 
 	"sites":[
+    {"key":"csp_LiteApple","name":"🍎小苹果┃推荐","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"酷看","name":"💡酷看┃推荐","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"豆瓣┃推荐","name":"豆瓣[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"},
+
     {"key":"csp_xbb_voflix","name":"🍀Voflix HD┃影视","type":3,"api":"csp_XBiubiu","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/voflix.json"},
 
 {"key":"csp_xp_Jumi","name":"💢剧迷TV┃备用","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/Jumi.json"},
