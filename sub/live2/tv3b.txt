@@ -183,6 +183,12 @@ NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225675/
 怀旧剧场,https://epg.pw/stream/f15ee6cfb9565bd3cd9aae88e6ab5b1e5f805c0e73d54f76ca846248b00dceef.ctv
 怀旧剧场,https://epg.pw/stream/58ae31cf740793564420e363abcd7e3f6ae3ae75be7c4eaf3676c103471ba907.ctv
 怀旧剧场,https://epg.pw/stream/2c3d1ac4b573288b1d3866589c6c1c80b3a865d45bf61826eddb676165cc3191.ctv
+
+
+CHC高清电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
+CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
+
 CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 
