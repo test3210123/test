@@ -154,6 +154,9 @@ BTV文艺,https://epg.pw/stream/8187544928bf88cd37dfc894fbd1725cdc517acf08e68874
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226439/index.m3u8$hlj移动超清
 
 NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225675/index.m3u8$hlj移动超清
+NewTV哒啵赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErjVvYM0ZqthE-XIiqeoM2g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+NewTV哒啵电竞,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EyKHPEcCpKH4LmXqAQnvIbg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+游戏风云,http://998969.xyz:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 游戏风云,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1595481830_-1185482178/wd_r2/ocn/youxifengyunhd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073745&ContentId=265667664&timezone=UTC&mtv_session=a0ecd5ce9d57ca6fe2f9a78dd80357fc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=238d629872f240eaaeb4749a58e17d18$咪咕视频
 
 游戏风云,http://122.9.151.210:887/rtp/238.255.2.197:5999$贵州电信组播源
