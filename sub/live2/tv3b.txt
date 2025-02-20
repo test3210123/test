@@ -109,6 +109,12 @@ CCTV10,https://node1.olelive.com:6443/live/CCTV10HD_360/hls.m3u8
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225728/index.m3u8$hlj移动超清
+BTV文艺,http://otttv.bj.chinamobile.com/PLTV/88888893/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
+BTV影视,http://otttv.bj.chinamobile.com/PLTV/88888893/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
+BTV文艺,http://otttv.bj.chinamobile.com/PLTV/88888890/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
+BTV影视,http://otttv.bj.chinamobile.com/PLTV/88888890/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
+BTV文艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
+BTV影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
 BTV文艺,http://123.56.129.203:4310/rtp/225.1.8.122:8002$北京电信组播源
 BTV文艺,https://epg.pw/stream/00e0ce364cc34744a4a6dd1ee344178127189d089c36d278efa7207c670af224.ctv
 BTV文艺,https://epg.pw/stream/8187544928bf88cd37dfc894fbd1725cdc517acf08e68874396d6152b1166f05.ctv
@@ -397,6 +403,14 @@ NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/
 北京地方,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225728/index.m3u8$hlj移动超清
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225654/index.m3u8$hlj移动超清
+BTV新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
+BTV影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
+BTV文艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
+BTV财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
+BTV生活,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
+BTV体育,http://114.246.183.121:4022/rtp/239.3.1.243:8000
+BTV国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
+
 BTV影视,https://epg.pw/stream/3585443172ca6efc6bc1139dfb455483324a4f88a70f51faafda6aec238da0a5.ctv
 BTV新闻,https://epg.pw/stream/d5382f18f73806266a96a520c74e73333205baff55968c90c6ef7feda2b887c8.ctv
 BTV新闻,https://epg.pw/stream/9433c4aa8bad51d1beacd8be33fdd3e96871c3a5fc59ed4acd8838a30ab2f03b.ctv
