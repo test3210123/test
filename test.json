@@ -10,11 +10,11 @@
 //	"spider": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;4FC8A585DA010B0F34EB4CDAD1EF922B",
 // "spider":"http://cdn.qiaoji8.com/fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
 //  "spider":"https://gitee.com/test3210/test/raw/master/sub/jar/l0407.jar",
-// "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar",
+//  "spider":"https://gitee.com/test3210/apk/raw/master/jar/0311.jar;md5;2c290f1ebe3bca783004c8b0152d47e5",
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
-  "spider":"https://gitee.com/test3210/apk/raw/master/jar/0311.jar;md5;2c290f1ebe3bca783004c8b0152d47e5",
+ "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar",
 
 	"sites":[
 {"key":"csp_xml_金鹰资源","name":"💡金鹰资源┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/jyzy.json"},
