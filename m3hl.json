@@ -3,7 +3,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee.com/test3210/test/raw/master/md/cu.json",
-"spider":"https://gitee.com/test3210/apk/raw/master/jar/0312.jar;md5;0fc7cc3ba9d5fc9b18c1773df03c85e6",
+"spider":"https://gitee.com/test3210/apk/raw/master/jar/0313.jar;md5;300ceac33157eaa2d8fe8e7e7d1a23a4",
 "lives":[{"name":"live","type":0,"url":"http://127.0.0.1:9978/proxy?do=myLive&type=txt&u=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL3N1eHVhbmcvbXlJUFRWQG1haW4vaXB2NC5tM3U&dl=tv3hl&t=250312","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"}],
 "sites": [
 {"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
