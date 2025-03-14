@@ -58,7 +58,9 @@
 
 {"key":"Jrsjs","name":"⚽看球Jrs┃体育","type":3,"api":"https://gitee.com/embracing-all-rivers-and-seas/fty/raw/master/drpy2.min.js","ext":"https://gitee.com/embracing-all-rivers-and-seas/fty/raw/master/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"310js","name":"⚽看球310┃体育","type":3,"api":"https://gitee.com/embracing-all-rivers-and-seas/fty/raw/master/drpy2.min.js","ext":"https://gitee.com/embracing-all-rivers-and-seas/fty/raw/master/310直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"企鹅体育xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/embracing-all-rivers-and-seas/fty/raw/master/企鹅直播.json"}
+{"key":"企鹅体育xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/embracing-all-rivers-and-seas/fty/raw/master/企鹅直播.json"},
+
+{"key":"push_agent","name":"🍭推送┃系统","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}}
 ],
 //解X设置
 "parses":[
