@@ -257,6 +257,7 @@ CHC动作电影,http://1.192.250.104:9901/tsfile/live/1002_1.m3u8$订阅源
 CHC动作电影,http://116.1.184.56:8181/tsfile/live/1063_1.m3u8$订阅源
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
 
 动画片,#genre#
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225662/index.m3u8$hlj移动超清
