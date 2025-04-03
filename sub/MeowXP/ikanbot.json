@@ -42,7 +42,7 @@
   "dtUrlNode": "//ul[@id='lineContent']/li/ul/li[@class='line-res']",
   "dtUrlSubNode": "/div",
   "dtUrlId": "@udata",
-  "dtUrlIdR": "(\\S+)",
+  "dtUrlIdR": "",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "{playUrl}",
