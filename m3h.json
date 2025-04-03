@@ -7,7 +7,7 @@
 "lives":[{"name":"live-yd","type":0,"url":"https://fastly.jsdelivr.net/gh/test3210123/test@master/sub/live2/tv3h.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/test3210/testlogo/raw/master/logo/{name}.png"}],
 "sites": [
 {"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ikanbot","name":"🌤爱看机器人┃推荐","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ikanbot","name":"🌈爱看机器人┃推荐","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_金鹰资源","name":"💡金鹰资源┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/jyzy.json"},
 {"key":"豆瓣┃推荐","name":"豆瓣[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"},
 
