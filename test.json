@@ -15,7 +15,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
-  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;52226f41d754811a750ca771bb996bff",
+  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;862bc5289c4403ab3011db54c3c201cf",
 
 	"sites":[
 {"key":"csp_xml_金鹰资源","name":"💡金鹰资源┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/jyzy.json"},
