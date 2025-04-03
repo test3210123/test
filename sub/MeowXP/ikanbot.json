@@ -41,7 +41,7 @@
   "dtFromName": "/text()",
   "dtUrlNode": "//ul[@id='lineContent']/li/ul/li[@class='line-res']",
   "dtUrlSubNode": "/div",
-  "dtUrlId": "@udata",
+  "dtUrlId": "@id",
   "dtUrlIdR": "",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
