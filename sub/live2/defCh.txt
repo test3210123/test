@@ -19,3 +19,10 @@
 沧州公共,https://czlive.czgd.tv:8813/live/czet_czetzm.m3u8
 沧州影视娱乐,https://czlive.czgd.tv:8813/live/czst_czstzm.m3u8
 任丘新闻,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
+山西卫视,http://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/i1sh8gV.m3u8
+宁夏卫视,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
+甘肃卫视,https://hls.gstv.com.cn/skt649/w0w7k2.m3u8
+
+
