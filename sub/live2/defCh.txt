@@ -7,3 +7,15 @@
 斗鱼6-科幻动作,https://stream-beijing-ctt-122-70-148-227.edgesrv.com:443/live/508118rTqLjG3MZI.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-508118-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼19-欧美电影,https://stream-beijing-ctt-122-70-148-230.edgesrv.com:443/live/7882691rDoGRyi6q.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-7882691-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
+卫视官网,#genre#
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
+河北经济,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=ed7e9d04b0cc72f270cdd56350b1a9c1
+河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=7e9e69c66cacfd4291006783ecf1fca7
+河北影视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=87d6fae20621b528a548db6f68624d64
+河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=61a6c7673fbb4863d132d1fda0378f5d
+河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=14113489b80124bfdeec2ec6298cc8f5
+河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=f3e85396df854219b4c44bbf8e22b15c
+沧州新闻综合,https://czlive.czgd.tv:8813/live/czyt_czytzm.m3u8
+沧州公共,https://czlive.czgd.tv:8813/live/czet_czetzm.m3u8
+沧州影视娱乐,https://czlive.czgd.tv:8813/live/czst_czstzm.m3u8
+任丘新闻,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
