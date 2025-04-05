@@ -27,4 +27,4 @@
 
 江苏卫视,http://litchi-play-encrypted-site.jstv.com/live/jsws_live.m3u8?txSecret=c3b0e8e5db8b87afd798aa7b5facb98a&txTime=95a66658
 
-安徽卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=ahws&u=aHR0cDovL21hcGkuYWh0di5jbi9hcGkvdjEvcHJvZ3JhbS5waHA/em9uZT0wJmNoYW5uZWxfaWQ9NDc
+安徽卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=ahws&u=aHR0cHM6Ly9tYXBpLmFodHYuY24vYXBpL3YxL3Byb2dyYW0ucGhwP3pvbmU9MCZjaGFubmVsX2lkPTQ3
