@@ -19,7 +19,7 @@
 
 "livePlayHeaders":[{
 "flag":["cName=jsws","litchi-play-encrypted-site.jstv.com"],
-"header":{"Referer", "https://live.jstv.com"}
+"header":{"Referer":"https://live.jstv.com"}
 }],
 
 	"sites":[
