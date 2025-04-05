@@ -15,7 +15,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
-  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;dbb351e43534c4b00589e232f5ee43f1",
+  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;a887add99c976faa4bfeae03cd24876a",
 
 "livePlayHeaders":[
 {"flag":["jstv.com"],"header":{"Referer":"https://live.jstv.com"}},
