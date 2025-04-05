@@ -18,8 +18,8 @@
   "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;ae598a42bf5da789a75e112642ca38b4",
 
 "livePlayHeaders":[
-{"flag":["jstv.com"],"header":{"Referer":"https://live.jstv.com"}},
-{"flag":["ahtv.cn"],"header":{"Referer":"https://www.ahtv.cn"}}
+{"flag":["jstv.com"],"header":{"Referer":"http://live.jstv.com"}},
+{"flag":["ahtv.cn"],"header":{"Referer":"http://www.ahtv.cn"}}
 ],
 
 	"sites":[
