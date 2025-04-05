@@ -29,5 +29,6 @@
 
 安徽卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=ahws&u=aHR0cHM6Ly9tYXBpLmFodHYuY24vYXBpL3YxL3Byb2dyYW0ucGhwP3pvbmU9MCZjaGFubmVsX2lkPTQ3
 东南卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=dnws&u=aHR0cDovL3d3dy5zZXR2LmZqdHYubmV0L20yby9jaGFubmVsL2NoYW5uZWxfaW5mby5waHA/Y2hhbm5lbF9pZD02NjUyNDg5NjYxMzY2NjQwNjQ
+贵州卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=gzsws&u=aHR0cHM6Ly9hcGkuZ3pzdHYuY29tL3YxL3R2L2NoMDEv
 
 
