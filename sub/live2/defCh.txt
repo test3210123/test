@@ -31,5 +31,6 @@
 东南卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=dnws&u=aHR0cDovL3d3dy5zZXR2LmZqdHYubmV0L20yby9jaGFubmVsL2NoYW5uZWxfaW5mby5waHA/Y2hhbm5lbF9pZD02NjUyNDg5NjYxMzY2NjQwNjQ
 贵州卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=gzsws&u=aHR0cHM6Ly9hcGkuZ3pzdHYuY29tL3YxL3R2L2NoMDEv
 河南卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=hnws&u=aHR0cHM6Ly9wdWJtb2QuaG50di50di9wcm9ncmFtL2dldEF1dGgvbGl2ZS9jbGFzcy9wcm9ncmFtLzExLw
+湖北卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=hbws&u=aHR0cDovL25ld3MuaGJ0di5jb20uY24vYWpheC9nZXRfY2RuX2xlZWNoP3VybD1odHRwOi8vbGl2ZTIxLWNqeS5oYnR2LmNvbS5jbi9uZXctaGJ0di9uZXctaGJ3cy5tM3U4P2F1dGhfa2V5PTE3NDM4NDY1MzctMDBlNjdmMzAxMWZmMTFmMGI5YjNjN2RkOWU1NTYwZjMtMC0yNDliMGRiNzEyZDhhNDFhNmYyMGM1MDI4MmMyZDJlMSZjbGllbnQtaWQ9NzcyMzhlMjEtZjI5NS00YTg1LTk4MzMtMmM3MmVlZDk4NTk5
 
 
