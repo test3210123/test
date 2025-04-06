@@ -21,7 +21,6 @@
 任丘新闻,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
-山西卫视,http://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/i1sh8gV.m3u8
 宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
 甘肃卫视,http://hls.gstv.com.cn/skt649/w0w7k2.m3u8
 
@@ -32,5 +31,6 @@
 贵州卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=gzsws&u=aHR0cHM6Ly9hcGkuZ3pzdHYuY29tL3YxL3R2L2NoMDEv
 河南卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=hnws&u=aHR0cHM6Ly9wdWJtb2QuaG50di50di9wcm9ncmFtL2dldEF1dGgvbGl2ZS9jbGFzcy9wcm9ncmFtLzExLw
 湖北卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=hbws&u=aHR0cDovL25ld3MuaGJ0di5jb20uY24vYWpheC9nZXRfY2RuX2xlZWNoP3VybD1odHRwOi8vbGl2ZTIxLWNqeS5oYnR2LmNvbS5jbi9uZXctaGJ0di9uZXctaGJ3cy5tM3U4P2F1dGhfa2V5PTE3NDM4NDY1MzctMDBlNjdmMzAxMWZmMTFmMGI5YjNjN2RkOWU1NTYwZjMtMC0yNDliMGRiNzEyZDhhNDFhNmYyMGM1MDI4MmMyZDJlMSZjbGllbnQtaWQ9NzcyMzhlMjEtZjI5NS00YTg1LTk4MzMtMmM3MmVlZDk4NTk5
+山西卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=sxrws&u=aHR0cDovL2xpdmVoaGh0dHBzLnN4cnR2LmNvbS9sc2RyZWFtL3E4UlZXZ3MvMTAwMC8
 
 
