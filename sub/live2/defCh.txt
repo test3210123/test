@@ -35,4 +35,5 @@
 山西卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=sxrws&u=aHR0cDovL2xpdmVoaGh0dHBzLnN4cnR2LmNvbS9sc2RyZWFtL3E4UlZXZ3MvMTAwMC8
 新疆卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=xjws&u=aHR0cHM6Ly9zbHN0YXBpLnhqdHZzLmNvbS5jbi9hcGkvVFZMaXZlVjEwMC9UVkNoYW5uZWxMaXN0P3R5cGU9MSZqc29uPXRydWU
 云南卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=ynws&u=aHR0cHM6Ly95bnR2LWFwaS55bnR2LmNuL2luZGV4L2ptZC9nZXRScT9uYW1lPXl1bm5hbndlaXNoaQ
+青海卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=qhws&u=aHR0cHM6Ly93d3cucWhidHYuY29tL20yby9jaGFubmVsL2NoYW5uZWxfaW5mby5waHA/aWQ9Mw
 
