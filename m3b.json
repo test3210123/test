@@ -10,8 +10,8 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee.com/test3210/test/raw/master/md/cu.json",
-"spider":"https://gitee.com/test3210/apk/raw/master/jar/0403.jar;md5;997b50f858825df18c1d69b842574b1b",
-"lives":[{"name":"live-yd","type":0,"url":"http://127.0.0.1:9978/proxy?do=myLive&type=txt&u=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL3Rlc3QzMjEwMTIzL3Rlc3RAbWFzdGVyL3N1Yi9saXZlMi90djRiLnR4dA&dl=tv3b&t=250314","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/test3210/testlogo/raw/master/logo/{name}.png"}],
+"spider":"https://gitee.com/test3210/apk/raw/master/jar/0408.jar;md5;6858973a4bae31d1e3d3b38f9fdaf4b1",
+"lives":[{"name":"live-yd","type":0,"url":"http://127.0.0.1:9978/proxy?do=myLive&type=txt&u=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL3Rlc3QzMjEwMTIzL3Rlc3RAbWFzdGVyL3N1Yi9saXZlMi90djRiLnR4dA&dl=tv3b&t=250408","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/test3210/testlogo/raw/master/logo/{name}.png"}],
 "sites": [
 {"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ikanbot","name":"🌈爱看机器人┃推荐","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
@@ -69,6 +69,12 @@
 {"key":"企鹅体育xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/embracing-all-rivers-and-seas/fty/raw/master/企鹅直播.json"},
 
 {"key":"push_agent","name":"🍭推送┃系统","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}}
+],
+"livePlayHeaders":[
+{"flag":["jstv.com"],"header":{"Referer":"http://live.jstv.com"}},
+{"flag":["ahtv.cn","cName=ahws"],"header":{"Referer":"https://www.ahtv.cn","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
+{"flag":["yntv.cn","cName=ynws"],"header":{"Referer":"https://www.yntv.cn/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
+{"flag":["hbtv.com","cName=hbws"],"header":{"Referer":"https://news.hbtv.com.cn"}}
 ],
 //解X设置
 "parses":[
