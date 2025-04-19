@@ -7,6 +7,11 @@
 斗鱼6-科幻动作,https://stream-beijing-ctt-122-70-148-227.edgesrv.com:443/live/508118rTqLjG3MZI.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-508118-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼19-欧美电影,https://stream-beijing-ctt-122-70-148-230.edgesrv.com:443/live/7882691rDoGRyi6q.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-7882691-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
+
+虎牙,#genre#
+虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&u=http23030854
+
+
 卫视官网,#genre#
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
 河北经济,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=ed7e9d04b0cc72f270cdd56350b1a9c1
