@@ -9,7 +9,7 @@
 
 
 虎牙,#genre#
-虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&u=http23030854
+虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&u=http11342412
 
 
 卫视官网,#genre#
