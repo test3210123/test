@@ -21,7 +21,7 @@
 {"flag":["jstv.com"],"header":{"Referer":"http://live.jstv.com"}},
 {"flag":["ahtv.cn","cName=ahws"],"header":{"Referer":"https://www.ahtv.cn","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
 {"flag":["yntv.cn","cName=ynws"],"header":{"Referer":"https://www.yntv.cn/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
-{"flag":["huya.com","cName=hyzb"],"header":{"Referer":"https://www.huya.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
+{"flag":["huya.com","cName=hyzb"],"header":{"Referer":"https://www.huya.com/","User-Agent":"Mozilla/5.0"}},
 {"flag":["hbtv.com","cName=hbws"],"header":{"Referer":"https://news.hbtv.com.cn"}}
 ],
 
