@@ -15,13 +15,13 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
-  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;902be6a69f49cf58eb385b63df0140c8",
+  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;2257fe3e81fc579ca17cc250429b8afa",
 
 "livePlayHeaders":[
 {"flag":["jstv.com"],"header":{"Referer":"http://live.jstv.com"}},
 {"flag":["ahtv.cn","cName=ahws"],"header":{"Referer":"https://www.ahtv.cn","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
 {"flag":["yntv.cn","cName=ynws"],"header":{"Referer":"https://www.yntv.cn/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}},
-{"flag":["huya.com","cName=hyzb"],"header":{"Origin":"https://m.huya.com", "Cookie":"__yamid_new=CB2D5EAABB100001D2851FFDC1F01514; __yasmid=0.21868314054020632; __yamid_tt1=0.21868314054020632; _yasids=__rootsid%3DCB2D5EAAC3A000014EA76EC016851C60; huyawap_rep_cnt=55", "User-Agent":"Mozilla/5.0 (Linux; Android 11; 21091116AC Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36","Referer":"https://m.huya.com/"}},
+{"flag":["huya.com","cName=hyzb"],"header":{"Origin":"https://m.huya.com", "Cookie":"__yamid_new=CB2D5EAABB100001D2851FFDC1F01514; __yasmid=0.21868314054020632; __yamid_tt1=0.21868314054020632; _yasids=__rootsid%3DCB2D5EAAC3A000014EA76EC016851C60; huyawap_rep_cnt=103", "User-Agent":"Mozilla/5.0 (Linux; Android 11; 21091116AC Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36","Referer":"https://m.huya.com/"}},
 {"flag":["hbtv.com","cName=hbws"],"header":{"Referer":"https://news.hbtv.com.cn"}}
 ],
 
