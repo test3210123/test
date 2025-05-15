@@ -15,7 +15,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
-  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;b5c0366122b573c3d214a72d4e934c06",
+  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;933314bdbaff8f4cec0431b7f0fbbb5b",
 
 "livePlayHeaders":[
 {"flag":["jstv.com"],"header":{"Referer":"http://live.jstv.com"}},
@@ -27,7 +27,7 @@
 
 	"sites":[
 {"key":"csp_xml_金鹰资源","name":"💡金鹰资源┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/jyzy.json"},
-{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","timeout":10,"searchable":1,"quickSearch":1,"changeable":1, "ext":"{\"jar\":\"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5\"}"},
+{"key":"苹果","name":"🍎苹果┃推荐","type":3,"api":"csp_LiteApple","timeout":10,"searchable":1,"quickSearch":1,"changeable":1, "ext":"{\"jar\":\"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5\"}"},
 {"key":"csp_Kekys","name":"👻可可┃推荐","type":3,"api":"csp_Kekys","playerType": 2, "searchable":1,"quickSearch":1,"filterable":1, "ext":"{\"csp\":\"LiteAppleGuard\", \"jar\":\"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5\"}"},
 {"key":"csp_Ikanbot","name":"🌈爱看机器人┃推荐","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_xml_爱看机器人","name":"🌤爱看机器人┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/ikanbot.json"},
