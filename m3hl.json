@@ -30,7 +30,6 @@
 {"key":"csp_xml_飞速采集","name":"🐝飞速采集┃搜索","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Dm84","name":"🍀动漫┃影视","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Ysj","name":"🍀异界┃影视","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_xbb_voflix","name":"🍀Voflix HD┃影视","type":3,"api":"csp_XBiubiu","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/voflix.json"},
 
 {"key":"csp_xp_Jumi","name":"💢剧迷TV┃备用","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/Jumi.json"},
