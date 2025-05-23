@@ -10,9 +10,8 @@
 
 
 虎牙,#genre#
-虎牙1-周星驰,http://al.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=5733e2dba60f8eb691a61b63b94b2eda&wsTime=68317a37&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3217558235685&uid=1469571619784&uuid=2271699679
-虎牙1-周星驰,http://tx.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=ed57d1b908bbf6f4a9752f551a54f883&wsTime=68317a37&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3217558235686&uid=1469571619784&uuid=2271701555
-虎牙1-周星驰,http://hs.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=ed57d1b908bbf6f4a9752f551a54f883&wsTime=68317a37&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3217558235686&uid=1469571619784&uuid=2271701005
+虎牙1-周星驰,http://example.com/url1
+虎牙1-周星驰,http://example.com/url2
 
 
 卫视官网,#genre#
