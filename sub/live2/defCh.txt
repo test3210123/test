@@ -1,6 +1,6 @@
 斗鱼,#genre#
-斗鱼1-周星驰,http://openhls-hw.douyucdn2.cn/live/74374regunlSPg8d_900.m3u8?txSecret=60c7c951643563f7a82327aa3fa3f6b9&txTime=6833e012&token=h5-douyu-0-74374-4cffb58d970b39312f86344407d9e709&did=10000000000000000000000000001501&origin=hw&vhost=play4&sid=406527777
-斗鱼1-周星驰,https://stream-shenyang-ct-123-184-97-30.edgesrv.com:443/live/74374regunlSPg8d.flv?wsAuth=f39ccb1907996131f8af3b292821f147&token=web-h5-0-74374-dcc4b172cfca13cb003b0537e8c3b57a8655ad2df5b7a99b&logo=0&expire=0&did=10000000000000000000000000001501&pt=2&st=0&sid=406527777&mcid2=0&vhost=play4&origin=hw&fcdn=scdn&fo=0&mix=0&isp=scdnctlinsy2
+斗鱼1-周星驰,http://openhls-hw.douyucdn2.cn/live/74374regunlSPg8d_900.m3u8?txSecret=e0a9e56613af5e79edb28d6e06236faa&txTime=6833f0e7&token=h5-douyu-0-74374-c2ed0759fa8c0fa32e40df4b919fc86e&did=10000000000000000000000000001501&origin=hw&vhost=play4&sid=406527777
+斗鱼1-周星驰,https://stream-shenyang-ct-123-184-97-30.edgesrv.com:443/live/74374regunlSPg8d.flv?wsAuth=0f27334219a0422ad588deb133a734aa&token=web-h5-0-74374-dcc4b172cfca13cb3564e2f10de085a55e715abbf57e3647&logo=0&expire=0&did=10000000000000000000000000001501&pt=2&st=0&sid=406527777&mcid2=0&vhost=play4&origin=hw&fcdn=scdn&fo=0&mix=0&isp=scdnctlinsy2
 斗鱼2-林正英,https://stream-beijing-ctt-122-70-148-229.edgesrv.com:443/live/11849873rGicNBBl.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-11849873-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼3-恐怖电影,https://stream-beijing-ctt-122-70-148-228.edgesrv.com:443/live/263824r3qgIzOf8v.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-263824-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼4-华语经典,https://stream-beijing-ctt-122-70-148-230.edgesrv.com:443/live/12421816rILVvFTJ.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-12421816-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
@@ -10,9 +10,9 @@
 
 
 虎牙,#genre#
-虎牙1-周星驰,http://al.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=10d913f6d981d24046102a91adaf912e&wsTime=68351573&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3217777506523&uid=1469554542667&uuid=2396453924
-虎牙1-周星驰,http://tx.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=10d913f6d981d24046102a91adaf912e&wsTime=68351573&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3217777506523&uid=1469554542667&uuid=2396453850
-虎牙1-周星驰,http://hs.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=919e0b41adb371b9e7d9c91a1f1589f1&wsTime=68351573&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3217777506524&uid=1469554542667&uuid=2396454705
+虎牙1-周星驰,http://al.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=ea8d02b1a3187abee4ce66807575f60e&wsTime=68352648&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3217793816541&uid=1469566544041&uuid=2410130304
+虎牙1-周星驰,http://tx.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=20a6a1676f19726268c5710aed20a333&wsTime=68352648&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3217793816542&uid=1469566544041&uuid=2410131793
+虎牙1-周星驰,http://hs.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?wsSecret=20a6a1676f19726268c5710aed20a333&wsTime=68352648&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3217793816542&uid=1469566544041&uuid=2410131540
 
 
 卫视官网,#genre#
