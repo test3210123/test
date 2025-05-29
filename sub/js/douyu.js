@@ -13,9 +13,13 @@ function init(ext) {
 
 function home(filter) {
 	console.log("home");
-  var a = ub98484234("74374", "10000000000000000000000000001501", "17000000");
-console.log(ub98484234);
-	console.log("home--------");
+  try {
+    var a = ub98484234("74374", "10000000000000000000000000001501", "17000000");
+    console.log(ub98484234);
+    console.log("home--------");
+  } catch(e) {
+    console.log("home执行失败:" + e.message)
+  }
 	return null;
 }
 
