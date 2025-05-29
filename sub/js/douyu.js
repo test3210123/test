@@ -17,6 +17,7 @@ function init(ext) {
 function home(filter) {
 	console.log("home");
   try {
+    console.log("home--------0");
     var a = ub98484234("74374", "10000000000000000000000000001501", "17000000");
     console.log("home--------1");
     console.log(ub98484234);
