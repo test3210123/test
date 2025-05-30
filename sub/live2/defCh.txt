@@ -10,20 +10,20 @@
 虎牙,#genre#
 虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342412&type=mobile&xl=AL
 虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342412&type=PC&xl=AL
-虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342412&type=mobile&xl=AL
-虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342412&type=PC&xl=AL
+虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342412&type=mobile&xl=TX
+虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342412&type=PC&xl=TX
 虎牙3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342422&type=mobile&xl=AL
 虎牙3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342422&type=PC&xl=AL
-虎牙3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342422&type=mobile&xl=AL
-虎牙3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342422&type=PC&xl=AL
+虎牙3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342422&type=mobile&xl=TX
+虎牙3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342422&type=PC&xl=TX
 虎牙4-华语经典,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11352965&type=mobile&xl=AL
 虎牙4-华语经典,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11352965&type=PC&xl=AL
-虎牙4-华语经典,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11352965&type=mobile&xl=AL
-虎牙4-华语经典,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11352965&type=PC&xl=AL
+虎牙4-华语经典,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11352965&type=mobile&xl=TX
+虎牙4-华语经典,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11352965&type=PC&xl=TX
 虎牙6-科幻动作,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=30080257&type=mobile&xl=AL
 虎牙6-科幻动作,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=30080257&type=PC&xl=AL
-虎牙6-科幻动作,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=30080257&type=mobile&xl=AL
-虎牙6-科幻动作,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=30080257&type=PC&xl=AL
+虎牙6-科幻动作,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=30080257&type=mobile&xl=TX
+虎牙6-科幻动作,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=30080257&type=PC&xl=TX
 
 
 卫视官网,#genre#
