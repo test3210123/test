@@ -1,10 +1,10 @@
 斗鱼,#genre#
-斗鱼1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=74374&type=PC
 斗鱼1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=74374&type=mobile
-斗鱼2-林正英,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=8371123&type=PC
+斗鱼1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=74374&type=PC
 斗鱼2-林正英,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=8371123&type=mobile
-斗鱼3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=11849873&type=PC
+斗鱼2-林正英,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=8371123&type=PC
 斗鱼3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=11849873&type=mobile
+斗鱼3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=11849873&type=PC
 
 
 虎牙,#genre#
