@@ -1,10 +1,10 @@
 斗鱼,#genre#
-斗鱼1-周星驰,http://openhls-hw.douyucdn2.cn/live/74374regunlSPg8d_900.m3u8?txSecret=f518939128f58a0cefed10a3b188e5e1&txTime=6839218b&token=h5-douyu-0-74374-b0e0ac8edbff387cda361d54fc74e48b&did=10000000000000000000000000001501&origin=hw&vhost=play4&sid=406527777
-斗鱼1-周星驰,https://stream-shenyang-ct-123-184-97-30.edgesrv.com:443/live/74374regunlSPg8d.flv?wsAuth=d8adcaab994275be6a27d22863f84de1&token=web-h5-0-74374-dcc4b172cfca13cb29410b577a5894442bdba00f552b9490&logo=0&expire=0&did=10000000000000000000000000001501&pt=2&st=0&sid=406527777&mcid2=0&vhost=play4&origin=hw&fcdn=scdn&fo=0&mix=0&isp=scdnctlinsy2
-斗鱼2-林正英,http://openhls-tct.douyucdn2.cn/dyliveflv3/8371123r9P923g0p_900.m3u8?txSecret=04c7a9c73f68520103629a3f7cfef841&txTime=6839218b&token=h5-douyu-0-8371123-890441e081833d04b115bec5c8049879&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=414299944
-斗鱼2-林正英,https://tc-tct.douyucdn2.cn/dyliveflv3/8371123r9P923g0p.flv?wsAuth=b47edae2aac4fab8b1f4fb03d8d89881&token=web-h5-0-8371123-efedf24257dd979bed14fb224e0629c9d8e6997fcb33e551&logo=0&expire=0&did=10000000000000000000000000001501&pt=2&st=0&sid=414299944&mcid2=0&origin=tct&fcdn=tct&fo=1&mix=0&isp=
-斗鱼3-恐怖电影,http://openhls-tct.douyucdn2.cn/dyliveflv3/11849873r4IjkV9W_900.m3u8?txSecret=b0192e17fbc31baa333c954eb682bc56&txTime=6839218c&token=h5-douyu-0-11849873-d514e26afd8892dcec4f0c7ff9ee54ee&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=414110892
-斗鱼3-恐怖电影,https://tc-tct.douyucdn2.cn/dyliveflv3/11849873r4IjkV9W.flv?wsAuth=4833dbdc6baff070e4877b2ea3381382&token=web-h5-0-11849873-34ef4d456a7f0ff75d62e396d5e2a8e114f7db12d245a71b&logo=0&expire=0&did=10000000000000000000000000001501&pt=2&st=0&sid=414110892&mcid2=0&origin=tct&fcdn=tct&fo=1&mix=0&isp=
+斗鱼1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=74374&type=PC
+斗鱼1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=74374&type=mobile
+斗鱼2-林正英,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=8371123&type=PC
+斗鱼2-林正英,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=8371123&type=mobile
+斗鱼3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=11849873&type=PC
+斗鱼3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=11849873&type=mobile
 
 
 虎牙,#genre#
