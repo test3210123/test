@@ -33,7 +33,7 @@
 //{"key":"csp_xml_爱看机器人","name":"🌤爱看机器人┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/ikanbot.json"},
 {"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷看","name":"💡酷看┃推荐","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"js_zb_douyu","name":"test","type":3,"api":"https://gitee.com/test3210/CatVodSpider/raw/master/js/douyu.js?t=8","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"},
+{"key":"js_zb_douyu","name":"test","type":3,"api":"https://gitee.com/test3210/CatVodSpider/raw/master/js/douyu.js?t=9","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"},
 {"key":"豆瓣┃推荐","name":"豆瓣[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"},
 
 {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/虎牙直播.js","style":{"type":"rect","ratio":1.755}},
