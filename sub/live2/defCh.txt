@@ -8,20 +8,22 @@
 
 
 虎牙,#genre#
-虎牙1-周星驰,http://al.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=41f297c1142e03142e9edf6368597328&wsTime=683a56ed&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218150936205&uid=1469583530504&uuid=3240915336
-虎牙1-周星驰,http://tx.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=41f297c1142e03142e9edf6368597328&wsTime=683a56ed&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218150936205&uid=1469583530504&uuid=3240915398
-虎牙1-周星驰,http://hs.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=81545a4945bcfa506da4d01777394da2&wsTime=683a56ed&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218150936206&uid=1469583530504&uuid=3240915878
-虎牙1-周星驰,http://qvodlive-va.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=81545a4945bcfa506da4d01777394da2&wsTime=683a56ed&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218150936206&uid=1469583530504&uuid=3240916088
-虎牙3-恐怖电影,http://al.flv.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.flv?wsSecret=21e978ef65018f3c1e6b2c21a196c942&wsTime=683a56ee&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218150937144&uid=1469583530508&uuid=3241849954
-虎牙3-恐怖电影,http://txdirect.flv.huya.com/huyalive/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.flv?wsSecret=2c40b89255d983416501d8e603851372&wsTime=683a56ee&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218150937145&uid=1469583530508&uuid=3241850878
-虎牙3-恐怖电影,http://hs.flv.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.flv?wsSecret=2c40b89255d983416501d8e603851372&wsTime=683a56ee&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218150937145&uid=1469583530508&uuid=3241850822
-虎牙3-恐怖电影,http://qvodlive-va.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.flv?wsSecret=2c40b89255d983416501d8e603851372&wsTime=683a56ee&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218150937145&uid=1469583530508&uuid=3241851342
-虎牙4-华语经典,http://al.flv.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.flv?wsSecret=6ea101a440f182ad2fec046f072a9950&wsTime=683a56ef&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218162950769&uid=1469595543051&uuid=3242932005
-虎牙4-华语经典,http://tx.flv.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.flv?wsSecret=193e01136279e631605c6c3c44de3e85&wsTime=683a56ef&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218162950770&uid=1469595543051&uuid=3242933643
-虎牙4-华语经典,http://hs.flv.huya.com/huyalive/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.flv?wsSecret=193e01136279e631605c6c3c44de3e85&wsTime=683a56ef&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218162950770&uid=1469595543051&uuid=3242933364
-虎牙6-科幻动作,http://al.flv.huya.com/src/1239543153989-1239543153989-11135015135096078336-2479086431434-10057-A-0-1.flv?wsSecret=2f40f2ad66264eb073372695e75b7343&wsTime=683a56f0&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218152939165&uid=1469585530313&uuid=3244066255
-虎牙6-科幻动作,http://tx.flv.huya.com/src/1239543153989-1239543153989-11135015135096078336-2479086431434-10057-A-0-1.flv?wsSecret=3ce8ef69f7bc131757a8843a0c21cb3a&wsTime=683a56f0&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218152939166&uid=1469585530313&uuid=3244067426
-虎牙6-科幻动作,http://hs.flv.huya.com/huyalive/1239543153989-1239543153989-11135015135096078336-2479086431434-10057-A-0-1.flv?wsSecret=3ce8ef69f7bc131757a8843a0c21cb3a&wsTime=683a56f0&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3218152939166&uid=1469585530313&uuid=3244067437
+虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342412&type=mobile&xl=AL
+虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342412&type=PC&xl=AL
+虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342412&type=mobile&xl=AL
+虎牙1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342412&type=PC&xl=AL
+虎牙3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342422&type=mobile&xl=AL
+虎牙3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342422&type=PC&xl=AL
+虎牙3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342422&type=mobile&xl=AL
+虎牙3-恐怖电影,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11342422&type=PC&xl=AL
+虎牙4-华语经典,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11352965&type=mobile&xl=AL
+虎牙4-华语经典,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11352965&type=PC&xl=AL
+虎牙4-华语经典,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11352965&type=mobile&xl=AL
+虎牙4-华语经典,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=11352965&type=PC&xl=AL
+虎牙6-科幻动作,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=30080257&type=mobile&xl=AL
+虎牙6-科幻动作,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=30080257&type=PC&xl=AL
+虎牙6-科幻动作,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=30080257&type=mobile&xl=AL
+虎牙6-科幻动作,http://127.0.0.1:9978/proxy?do=myTv&cName=hyzb&room=30080257&type=PC&xl=AL
 
 
 卫视官网,#genre#
