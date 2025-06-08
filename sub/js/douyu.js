@@ -14,18 +14,18 @@ function init(ext) {
 function home(filter) {
 	console.log("home");
 //  try {
-//    console.log("home--------0");
+//    console.log("--------home.0");
 //    const ts = Math.floor(new Date().getTime() / 1e3);
 //    var a = ub98484234("74374", "10000000000000000000000000001501", ts);
 ////    var finalRoomID = "74374";
 ////    const did = "10000000000000000000000000001501";
 ////    const signFunc = `${a}(${finalRoomID},"${did}",${ts})`;
-//    console.log("home--------1");
+//    console.log("--------home.1");
 //    console.log(a);
-//    console.log("home--------2");
+//    console.log("--------home.2");
 ////    var b = playPC("74374", a);
 ////    console.log(b);
-////    console.log("home--------3");
+////    console.log("--------home.3");
 //    return a;
 //  } catch(e) {
 //    console.log("home执行失败:" + e.message)
@@ -51,18 +51,18 @@ function detail(vod_url) {
 function play(htmlJs, id, flags) {
   console.log("play");
   try {
-//    console.log("play--------0");
+//    console.log("--------play.0");
     const did = "10000000000000000000000000001501";
     const ts = Math.floor(new Date().getTime() / 1e3);
 //    var a = ub98484234(id, did, ts);
-//    console.log("play--------1");
+//    console.log("--------play.1");
 //    console.log(a);
-    console.log("play--------id="+id);
-//    console.log("play--------2");
+    console.log("--------play.id="+id);
+//    console.log("--------play.2");
     let htmlJsCall = 'ub98484234("'+id+'", "'+did+'", '+ts+');';
     var program = eval(htmlJs + htmlJsCall);
-    console.log("play--------program="+program);
-//    console.log("play--------3");
+    console.log("--------play.program="+program);
+//    console.log("--------play.3");
     return program;
   } catch(e) {
     console.log("play执行失败:" + e.message)
@@ -89,11 +89,6 @@ function isVideo(url) {
   console.log("isVideo");
 	return null;
 }
-
-
-
-
-
 
 function DRPY() {
 	return {
