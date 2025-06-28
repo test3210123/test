@@ -39,10 +39,10 @@ public class EpgPwService {
 
     @PostConstruct
     public void init() {
-        baseFilePath = System.getProperty("user.dir") + "/txt";
-        epgInfo = getJsonFile("EpgUrl.json");
-        if (epgInfo == null)
-            epgInfo = new HashMap<>();
+//        baseFilePath = System.getProperty("user.dir") + "/txt";
+//        epgInfo = getJsonFile("EpgUrl.json");
+//        if (epgInfo == null)
+//            epgInfo = new HashMap<>();
     }
 
     /**

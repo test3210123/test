@@ -52,11 +52,11 @@ public class UpdataService implements CommandLineRunner {
     @SuppressWarnings("unchecked")
     @Override
     public void run(String... args) throws Exception {
-        boolean epgFlag = epgPwService.start();
+//        boolean epgFlag = epgPwService.start();
 //        gitHubService.download();
-        boolean gitHubFlag = gitHubService.writeMyFile();
-        if (epgFlag || gitHubFlag)
-            updataGit();
+//        boolean gitHubFlag = gitHubService.writeMyFile();
+//        if (epgFlag || gitHubFlag)
+//            updataGit();
         //
 //        Map<String, Object> epgInfo = new HashMap<>();
 //        gitHubService.template.forEach((key, value) -> {

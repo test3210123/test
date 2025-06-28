@@ -43,13 +43,13 @@ public class GitHubService {
 
     @PostConstruct
     public void init() {
-        baseFilePath = System.getProperty("user.dir") + "/txt";
-        ipInfos = getJsonFile("ipInfo.json");
-        if (ipInfos == null)
-            ipInfos = new HashMap<>();
-
-        defUrl = getJsonFile("defUrl.json");
-        template = getJsonFile("template.json");
+//        baseFilePath = System.getProperty("user.dir") + "/txt";
+//        ipInfos = getJsonFile("ipInfo.json");
+//        if (ipInfos == null)
+//            ipInfos = new HashMap<>();
+//
+//        defUrl = getJsonFile("defUrl.json");
+//        template = getJsonFile("template.json");
     }
 
     /**

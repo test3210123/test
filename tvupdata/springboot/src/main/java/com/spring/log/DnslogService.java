@@ -41,9 +41,12 @@ public class DnslogService implements CommandLineRunner {
                     Date date = formatter.parse(dateStr);
                     System.out.println(log[1]);
                     String ip = log[1].substring(0, log[1].indexOf("#"));
+                    if (ip.indexOf("@") > -1)
+                        ip = ip.substring(ip.indexOf(" ") + 1);
                     System.out.println(ip);
                     String dns = log[1].substring(log[1].indexOf("(") + 1, log[1].indexOf(")"));
                     System.out.println(dns);
+//                    if (ip.indexOf("192.168.2.12") > -1) {
                     if ("192.168.2.12".equals(ip)) {
                         Map<String, String> map = null;
                         if (allDns.containsKey(dns)) {
