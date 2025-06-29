@@ -42,10 +42,10 @@
 内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
 甘肃卫视,http://hls.gstv.com.cn/skt649/w0w7k2.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-giruAT.m3u8
 
 江苏卫视,http://litchi-play-encrypted-site.jstv.com/live/jsws_live.m3u8?txSecret=c3b0e8e5db8b87afd798aa7b5facb98a&txTime=95a66658
 
+陕西卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=snrws&u=aHR0cDovL3RvdXRpYW8uY253ZXN0LmNvbS9zdGF0aWMvdjEvZ3JvdXAvc3RyZWFtLmpz
 安徽卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=ahws&u=aHR0cHM6Ly9tYXBpLmFodHYuY24vYXBpL3YxL3Byb2dyYW0ucGhwP3pvbmU9MCZjaGFubmVsX2lkPTQ3
 东南卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=dnws&u=aHR0cDovL3d3dy5zZXR2LmZqdHYubmV0L20yby9jaGFubmVsL2NoYW5uZWxfaW5mby5waHA/Y2hhbm5lbF9pZD02NjUyNDg5NjYxMzY2NjQwNjQ
 贵州卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=gzsws&u=aHR0cHM6Ly9hcGkuZ3pzdHYuY29tL3YxL3R2L2NoMDEv
