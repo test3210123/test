@@ -43,7 +43,7 @@
 宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
 甘肃卫视,http://hls.gstv.com.cn/skt649/w0w7k2.m3u8
 
-江苏卫视,http://litchi-play-encrypted-site.jstv.com/live/jsws_live.m3u8?txSecret=c3b0e8e5db8b87afd798aa7b5facb98a&txTime=95a66658
+江苏卫视,http://litchi-play-encrypted-site.jstv.com/applive/jswspro.m3u8?txSecret=04ae243898b79abfa834ff67497e7e27&txTime=6e47541e
 
 陕西卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=snrws&u=aHR0cDovL3RvdXRpYW8uY253ZXN0LmNvbS9zdGF0aWMvdjEvZ3JvdXAvc3RyZWFtLmpz
 安徽卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=ahws&u=aHR0cHM6Ly9tYXBpLmFodHYuY24vYXBpL3YxL3Byb2dyYW0ucGhwP3pvbmU9MCZjaGFubmVsX2lkPTQ3
