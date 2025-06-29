@@ -41,9 +41,9 @@
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
-黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+黑龙江卫视1,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 
-江苏卫视,http://litchi-play-encrypted-site.jstv.com/applive/jswspro.m3u8?txSecret=04ae243898b79abfa834ff67497e7e27&txTime=6e47541e
+江苏卫视1,http://litchi-play-encrypted-site.jstv.com/applive/jswspro.m3u8?txSecret=04ae243898b79abfa834ff67497e7e27&txTime=6e47541e
 
 甘肃卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=gsws&u=aHR0cHM6Ly93d3cuZ3N0di5jb20uY24venhjLmpodG1s
 陕西卫视,http://127.0.0.1:9978/proxy?do=myTv&cName=snrws&u=aHR0cDovL3RvdXRpYW8uY253ZXN0LmNvbS9zdGF0aWMvdjEvZ3JvdXAvc3RyZWFtLmpz
