@@ -681,28 +681,28 @@ CCTV11,http://39.134.65.7/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225597
 
 
 动画片,#genre#
-黑莓动画,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225662/index.m3u8$hlj移动超清
-哈哈炫动,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225657/index.m3u8$hlj移动超清
-优漫卡通,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225656/index.m3u8$hlj移动超清
-金鹰卡通,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225653/index.m3u8$hlj移动超清
-卡酷少儿,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225654/index.m3u8$hlj移动超清
+黑莓动画,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225662/index.m3u8$hlj移动超清
+哈哈炫动,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225657/index.m3u8$hlj移动超清
+优漫卡通,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225656/index.m3u8$hlj移动超清
+金鹰卡通,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225653/index.m3u8$hlj移动超清
+卡酷少儿,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225654/index.m3u8$hlj移动超清
 
-黑莓动画,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225662/index.m3u8$hlj移动高清
-哈哈炫动,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225657/index.m3u8$hlj移动高清
-优漫卡通,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225656/index.m3u8$hlj移动高清
-金鹰卡通,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225653/index.m3u8$hlj移动高清
-卡酷少儿,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225654/index.m3u8$hlj移动高清
+黑莓动画,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225662/index.m3u8$hlj移动高清
+哈哈炫动,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225657/index.m3u8$hlj移动高清
+优漫卡通,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225656/index.m3u8$hlj移动高清
+金鹰卡通,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225653/index.m3u8$hlj移动高清
+卡酷少儿,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225654/index.m3u8$hlj移动高清
 
-黑莓动画,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$hlj移动
-哈哈炫动,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$hlj移动
-金鹰卡通,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$hlj移动
-优漫卡通,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$hlj移动
-卡酷少儿,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$hlj移动
+黑莓动画,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$hlj移动
+哈哈炫动,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$hlj移动
+金鹰卡通,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$hlj移动
+优漫卡通,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$hlj移动
+卡酷少儿,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$hlj移动
 
 
 北京地方,#genre#
-北京卫视,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225728/index.m3u8$hlj移动超清
-卡酷少儿,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225654/index.m3u8$hlj移动超清
+北京卫视,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225728/index.m3u8$hlj移动超清
+卡酷少儿,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225654/index.m3u8$hlj移动超清
 BTV新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
 BTV影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
 BTV文艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
@@ -720,30 +720,6 @@ BTV科教,https://epg.pw/stream/ed522bc38be14e2ffbc968b414f7dc58052f2465d91187d4
 BTV生活,https://epg.pw/stream/dca1f726cade4bb802795c7e0a537281f8d6c3cecb2c6df118083b5433841a39.ctv
 BTV生活,https://epg.pw/stream/d44e139290ac804dba79815fc907844f7e23dc6beaec6f39a06c1ff56ef13d17.ctv
 BTV体育,https://epg.pw/stream/ed522bc38be14e2ffbc968b414f7dc58052f2465d91187d49e0338346dea42f5.ctv
-北京卡酷少儿,http://123.56.129.203:4310/rtp/225.1.8.130:8002$北京电信组播源
-BTV新闻,http://123.56.129.203:4310/rtp/225.1.8.129:8002$北京电信组播源
-BTV新闻,http://39.98.201.151:9090/udp/225.1.8.83:8000$订阅源
-BTV新闻,http://39.98.201.151:9090/udp/225.1.8.129:8002$订阅源
-BTV生活,http://123.56.129.203:6440/rtp/225.1.8.127:8002$组播源
-BTV生活,http://123.56.129.203:4310/rtp/225.1.8.127:8002$北京电信组播源
-BTV生活,http://39.98.201.151:9090/udp/225.1.8.108:8002$订阅源
-BTV生活,http://39.98.201.151:9090/udp/225.1.8.127:8002$订阅源
-BTV科教,http://123.56.129.203:3553/rtp/225.1.8.123:8002$组播源
-BTV科教,http://123.56.129.203:4310/rtp/225.1.8.123:8002$北京电信组播源
-BTV科教,http://39.98.201.151:9090/udp/225.1.8.105:8002$订阅源
-BTV科教,http://39.98.201.151:9090/udp/225.1.8.123:8002$订阅源
-BTV科教,http://43.138.11.122/cq/yh.php?id=G_BEIJINGJS-CQ$订阅源
-BTV财经,http://123.56.129.203:5177/rtp/225.1.8.125:8002$组播源
-BTV财经,http://123.56.129.203:4310/rtp/225.1.8.125:8002$北京电信组播源
-BTV财经,http://39.98.201.151:9090/udp/225.1.8.106:8002$订阅源
-BTV财经,http://39.98.201.151:9090/udp/225.1.8.125:8002$订阅源
-BTV青年,http://123.56.129.203:4310/rtp/225.1.8.128:8002$北京电信组播源
-BTV青年,http://123.56.129.203:6440/rtp/225.1.8.128:8002$组播源
-BTV青年,http://123.56.129.203:3553/rtp/225.1.8.128:8002$组播源
-BTV青年,http://39.98.201.151:9090/udp/225.1.8.118:8002$订阅源
-BTV青年,http://39.98.201.151:9090/udp/225.1.8.128:8002$订阅源
-BTV纪实,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8$订阅源
-BTV文艺,http://123.56.129.203:4310/rtp/225.1.8.122:8002$北京电信组播源
 
 
 河北地方,#genre#
@@ -781,29 +757,29 @@ BTV文艺,http://123.56.129.203:4310/rtp/225.1.8.122:8002$北京电信组播源
 
 
 黑龙江,#genre#
-NewTV东北热剧,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$hlj移动
-NewTV惊悚悬疑,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$hlj移动
-NewTV明星大片,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$hlj移动
-NewTV动作电影,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$hlj移动
-NewTV爱情喜剧,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$hlj移动
-NewTV中国功夫,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$hlj移动
-NewTV黑莓动画,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$hlj移动
-NewTV黑莓电影,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
-NewTV潮妈辣婆,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$hlj移动
-NewTV古装剧场,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$hlj移动
-NewTV家庭剧场,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$hlj移动
-NewTV欢乐剧场,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$hlj移动
-NewTV海外剧场,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$hlj移动
-NewTV军旅剧场,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$hlj移动
-NewTV军事评论,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$hlj移动
-NewTV金牌综艺,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$hlj移动
-NewTV哒啵赛事,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
-NewTV农业致富,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$hlj移动
-NewTV超级电影,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$hlj移动
-NewTV超级电视剧,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$hlj移动
-NewTV超级综艺,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$hlj移动
-NewTV超级体育,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$hlj移动
-NewTV精品体育,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$hlj移动
-NewTV精品纪录,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$hlj移动
-NewTV精品大剧,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$hlj移动
-NewTV精品萌宠,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$hlj移动
+NewTV东北热剧,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$hlj移动
+NewTV惊悚悬疑,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$hlj移动
+NewTV明星大片,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$hlj移动
+NewTV动作电影,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$hlj移动
+NewTV爱情喜剧,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$hlj移动
+NewTV中国功夫,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$hlj移动
+NewTV黑莓动画,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$hlj移动
+NewTV黑莓电影,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
+NewTV潮妈辣婆,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$hlj移动
+NewTV古装剧场,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$hlj移动
+NewTV家庭剧场,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$hlj移动
+NewTV欢乐剧场,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$hlj移动
+NewTV海外剧场,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$hlj移动
+NewTV军旅剧场,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$hlj移动
+NewTV军事评论,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$hlj移动
+NewTV金牌综艺,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$hlj移动
+NewTV哒啵赛事,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
+NewTV农业致富,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$hlj移动
+NewTV超级电影,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$hlj移动
+NewTV超级电视剧,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$hlj移动
+NewTV超级综艺,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$hlj移动
+NewTV超级体育,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$hlj移动
+NewTV精品体育,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$hlj移动
+NewTV精品纪录,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$hlj移动
+NewTV精品大剧,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$hlj移动
+NewTV精品萌宠,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$hlj移动
