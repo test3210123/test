@@ -30,6 +30,10 @@ public class YidongTv {
                             newLv.add(string.replace("88888888", "88888893") + "$hlj移动超清");
                             newLv.add(string.replace("88888888", "88888890") + "$hlj移动高清");
                             newLv.add(string + "$hlj移动");
+                        } else if (string.indexOf("otttv.bj.chinamobile.com") > -1) {
+                            newLv.add(string.replace("88888888", "88888893") + "$bj移动超清");
+                            newLv.add(string.replace("88888888", "88888890") + "$bj移动高清");
+                            newLv.add(string + "$bj移动");
                         }
                     }
                     if (newLv.size() > 0)
