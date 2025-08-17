@@ -16,8 +16,8 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
-//  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;33d85cb3595b1d6242753a9d4028d421",
- "spider":"https://gitee.com/test3210/apk/raw/master/jar/0629.jar;md5;33d85cb3595b1d6242753a9d4028d421",
+  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;671a353e0b6df31ca78cd422f8e2f8b4",
+// "spider":"https://gitee.com/test3210/apk/raw/master/jar/0629.jar;md5;33d85cb3595b1d6242753a9d4028d421",
 
 "livePlayHeaders":[
 {"flag":["jstv.com"],"header":{"Referer":"http://live.jstv.com"}},
@@ -49,7 +49,7 @@
 
     {"key":"csp_xbb_voflix","name":"🍀Voflix HD┃影视","type":3,"api":"csp_XBiubiu","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/voflix.json"},
 
-{"key":"csp_xml_非凡资源","name":"💡非凡资源┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/ffzy.json"},
+{"key":"csp_xml_非凡资源","name":"💡非凡资源┃推荐","type":3,"api":"csp_MacCms10","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/ffzy.json"},
 {
       "key": "非凡",
       "name": "非凡",
