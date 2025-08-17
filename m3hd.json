@@ -3,13 +3,14 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee.com/test3210/test/raw/master/md/cu.json",
-"spider":"https://gitee.com/test3210/apk/raw/master/jar/0629.jar;md5;33d85cb3595b1d6242753a9d4028d421",
+"spider":"https://gitee.com/test3210/apk/raw/master/jar/0817.jar;md5;e82083de836c30804587530a192c161a",
 "lives":[{"name":"live","type":0,"url":"http://127.0.0.1:9978/proxy?do=myLive&type=txt&u=aHR0cHM6Ly9naXRodWIubW9leXkueHl6L2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9zdXh1YW5nL215SVBUVi9tYWluL2lwdjQubTN1&dl=tv3hd&t=250629","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"}],
 "sites": [
 //{"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"360┃推荐","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
 {"key":"csp_Ikanbot","name":"🌈爱看机器人┃推荐","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xml_金鹰资源","name":"💡金鹰资源┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/jyzy.json"},
+{"key":"csp_xml_非凡资源","name":"👀非凡资源┃推荐","type":3,"api":"csp_MacCms10","searchable":1,"quickSearch":1,"ext":"./sub/MeowMac/ffzy.json"},
+{"key":"csp_xml_金鹰资源","name":"💡金鹰资源┃推荐","type":3,"api":"csp_MacCms10","searchable":1,"quickSearch":1,"ext":"./sub/MeowMac/jyzy.json"},
 {"key":"豆瓣┃推荐","name":"豆瓣[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"},
 
 {"key":"儿童教育","name":"📚儿童┃教育","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
