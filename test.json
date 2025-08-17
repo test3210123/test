@@ -49,11 +49,12 @@
 
     {"key":"csp_xbb_voflix","name":"🍀Voflix HD┃影视","type":3,"api":"csp_XBiubiu","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/voflix.json"},
 
+{"key":"csp_xml_非凡资源","name":"💡非凡资源┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/ffzy.json"},
 {
       "key": "非凡",
       "name": "非凡",
       "type": 0,
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
