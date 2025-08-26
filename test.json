@@ -17,7 +17,8 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
 //  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;e82083de836c30804587530a192c161a",
- "spider":"https://gitee.com/test3210/apk/raw/master/jar/0817.jar;md5;e82083de836c30804587530a192c161a",
+// "spider":"https://gitee.com/test3210/apk/raw/master/jar/0817.jar;md5;e82083de836c30804587530a192c161a",
+ "spider":"https://jihulab.com/yoursmile6/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 
 "livePlayHeaders":[
 {"flag":["jstv.com"],"header":{"Referer":"http://live.jstv.com"}},
@@ -51,6 +52,10 @@
 
 {"key":"csp_xml_非凡资源","name":"👀非凡资源┃推荐","type":3,"api":"csp_MacCms10","searchable":1,"quickSearch":1,"ext":"./sub/MeowMac/ffzy.json"},
 {"key":"csp_xml_金鹰资源","name":"💡金鹰资源┃推荐","type":3,"api":"csp_MacCms10","searchable":1,"quickSearch":1,"ext":"./sub/MeowMac/jyzy.json"},
+
+
+{"key":"可可","name":"☕️可可","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/可可影视.json"},
+
 
 {"key":"csp_xp_Jumi","name":"💢剧迷TV┃备用","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/Jumi.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士┃备用","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/dm84.json"},
