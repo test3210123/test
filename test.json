@@ -16,7 +16,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
-  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;ac7ae59c4c4479d70c46d37a90bde0d7",
+  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;d99b49ccd7d1104c2e00a8a0589d8d77",
 // "spider":"https://gitee.com/test3210/apk/raw/master/jar/0817.jar;md5;e82083de836c30804587530a192c161a",
 
 "livePlayHeaders":[
