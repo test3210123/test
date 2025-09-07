@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://api.guangsuapi.com",
+  "homeUrl": "http://api.guangsuapi.com/api.php/provide/vod/at/xml",
+  "siteFilterUrl": "http://cj.ffzyapi.com/index.php/ajax/data.html?mid=1&limit=20&page={page}&tid={tid}",
+  "detailUrl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/?ac=detail&ids=",
+  "searchUrl": "https://api.guangsuapi.com/index.php/ajax/suggest?mid=1&limit=20&imestamp={timestamp}&wd={wd}",
+  "cateManual": "{\"classes\":[{\"type_name\":\"电影\",\"type_id\":\"1\"},{\"type_name\":\"连续剧\",\"type_id\":\"2\"},{\"type_name\":\"综艺\",\"type_id\":\"3\"},{\"type_name\":\"动漫\",\"type_id\":\"4\"},{\"type_name\":\"动作片\",\"type_id\":\"5\"},{\"type_name\":\"喜剧片\",\"type_id\":\"7\"},{\"type_name\":\"爱情片\",\"type_id\":\"8\"},{\"type_name\":\"科幻片\",\"type_id\":\"9\"},{\"type_name\":\"恐怖片\",\"type_id\":\"11\"},{\"type_name\":\"剧情片\",\"type_id\":\"10\"},{\"type_name\":\"战争片\",\"type_id\":\"12\"},{\"type_name\":\"国产剧\",\"type_id\":\"13\"},{\"type_name\":\"欧美剧\",\"type_id\":\"14\"},{\"type_name\":\"港澳剧\",\"type_id\":\"15\"},{\"type_name\":\"韩剧\",\"type_id\":\"16\"},{\"type_name\":\"记录片\",\"type_id\":\"24\"},{\"type_name\":\"短剧\",\"type_id\":\"31\"}]}"
+}
