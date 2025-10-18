@@ -1,3 +1,12 @@
+少儿-ipv4,#genre#
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
+动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
+动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
+卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
+金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
+
+
 斗鱼,#genre#
 斗鱼1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=74374&type=mobile
 斗鱼1-周星驰,http://127.0.0.1:9978/proxy?do=myTv&cName=dyzb&room=74374&type=PC
