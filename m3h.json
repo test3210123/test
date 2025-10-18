@@ -4,7 +4,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee.com/test3210/test/raw/master/md/cu.json",
 "spider":"https://gitee.com/test3210/apk/raw/master/jar/0907.jar;md5;d8961f60451ef9fe0a46c07f615b85cc",
-"lives":[{"name":"live-yd","type":0,"url":"http://127.0.0.1:9978/proxy?do=myLive&type=txt&u=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL3Rlc3QzMjEwMTIzL3Rlc3RAbWFzdGVyL3N1Yi9saXZlMi90djRiLnR4dA&dl=tv3h&t=250629","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/test3210/testlogo/raw/master/logo/{name}.png"}],
+"lives":[{"name":"live-yd","type":0,"url":"http://127.0.0.1:9978/proxy?do=myLive&type=txt&u=aHR0cHM6Ly9naC1wcm94eS5uZXQvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1eHVhbmcvbXlJUFRWL21haW4vaXB2NC5tM3U&dl=tv3h&t=250629","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/test3210/testlogo/raw/master/logo/{name}.png"}],
 "sites": [
 {"key":"csp_Kekys","name":"👻可可┃推荐","type":3,"api":"csp_Kekys", "searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"360┃推荐","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
