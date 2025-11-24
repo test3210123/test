@@ -1,10 +1,10 @@
-"cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
 
 //      >>> 当前时间是：2025-11-24 11:03:14 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
 
 {
+"cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
 "spider":"https://ww0.wangmeipo.cn/api/v3/file/get/41951/zx1.jpg?sign=RIezPOqtU8eKBORaxzrhuGiA_No358USJKX642yRr7Y%3D%3A0;md5;45c0dfb4159364ff6d9a7749bbc6454e","warningText":"拒绝内置接口内置接口会崩溃纯开源纯自用",
 "wallpaper":"https://api.fw1028.top/scenery.php?return=img",
 "sites":[
