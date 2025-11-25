@@ -12,7 +12,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee.com/test3210/test/raw/master/md/cu.json",
-"spider":"https://gitee.com/test3210/apk/raw/master/jar/0907.jar;md5;d8961f60451ef9fe0a46c07f615b85cc",
+"spider":"https://gitee.com/test3210/apk/raw/master/jar/1125.jar;md5;0154b5530d2b395f7dc2e9690ecd561f",
 "lives":[{"name":"live-yd","type":0,"url":"http://127.0.0.1:9978/proxy?do=myLive&type=txt&u=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL3Rlc3QzMjEwMTIzL3Rlc3RAbWFzdGVyL3N1Yi9saXZlMy9iai50eHQ&ch=L3N1Yi9saXZlMy9jaC50eHQ&dl=tv3b&t=251019","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/test3210/testlogo/raw/master/logo/{name}.png"}],
 "sites": [
 //{"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -26,7 +26,7 @@
 
 {"key":"儿童教育","name":"📚儿童┃教育","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.org/https:/raw.githubusercontent.com/test3210123/test/master/sub/json/%E5%B0%91%E5%84%BF.txt"}},
-{"key":"小学课堂","name":"📚小学┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4A3AA71_773_xiaoxue_20250828171535645newMediaImage.txt"}},
+{"key":"小学课堂","name":"📚小学┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.org/https:/raw.githubusercontent.com/test3210123/test/master/sub/json/%E5%B0%8F%E5%AD%A6.txt"}},
 {"key":"初中课堂","name":"📚初中┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.org/https:/raw.githubusercontent.com/test3210123/test/master/sub/json/%E5%88%9D%E4%B8%AD.txt"}},
 {"key":"高中教育","name":"📚高中┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.org/https:/raw.githubusercontent.com/test3210123/test/master/sub/json/%E9%AB%98%E4%B8%AD.txt"}},
 
