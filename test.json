@@ -16,7 +16,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
-  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;4edb6a676bff1ceb7da9e4b6ca992001",
+  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;eda4ecc9cdf78c5aaeb707292513e96b",
 // "spider":"https://gitee.com/test3210/apk/raw/master/jar/0907.jar;md5;d8961f60451ef9fe0a46c07f615b85cc",
 
 "livePlayHeaders":[
@@ -81,7 +81,7 @@
 {"key":"Xinsj","name":"🍀视觉┃影视","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 {"key":"zxzj","name":"🍀在线┃影视","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 {"key":"Lib","name":"🍀立播┃影视","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
-{"key":"csp_Dm84","name":"🍀动漫┃影视","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"csp_Dm84","name":"🍀动漫┃影视","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ying","name":"🍀樱花┃影视","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ysj","name":"🍀异界┃影视","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"🍀原创┃影视","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
@@ -118,7 +118,7 @@
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},
 {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kanqiu","name":"⚾看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
 {"key":"csp_Kugou","name":"🐶酷狗","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
 {"key":"csp_BookTing","name":"📚听书","type":3,"playerType":2,"api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
