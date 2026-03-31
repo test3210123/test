@@ -405,6 +405,35 @@ BTV生活,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?Gu
 
 
 移动IPV6-内网,#genre#
+CCTV3,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
+CCTV4,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?
+CCTV4,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
+CCTV6,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
+CCTV8,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
+CCTV10,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
+CCTV11,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
+CCTV11,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8?
+CCTV10,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8?
+CCTV13,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
+CCTV13,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8?
+CCTV13,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226568/1.m3u8?
+CCTV15,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
+CCTV16,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
+CCTV17,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
+吉林卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?
+金鹰卡通,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8?
+吉林卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226886/1.m3u8?
+吉林卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226912/1.m3u8?
+辽宁卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226336/1.m3u8?
+辽宁卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8?
+重庆卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?
+重庆卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8?
+重庆卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8?
+安徽卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?
+安徽卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226499/1.m3u8?
+安徽卫视,http://192.168.1.3:18000/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226902/1.m3u8?
+
+移动IPV6,#genre#
 CCTV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
 CCTV2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8?
