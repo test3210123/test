@@ -16,7 +16,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee1.com/test3210/test/raw/master/md/cu.json",
-  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;fa671dd33cb91d13b3ad0684257cd998",
+  "spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;12c902d4a7179c51e661db2ab8782181",
 // "spider":"https://gitee.com/test3210/apk/raw/master/jar/0907.jar;md5;d8961f60451ef9fe0a46c07f615b85cc",
 
 "livePlayHeaders":[
@@ -32,7 +32,7 @@
 	"sites":[
 //{"key":"csp_xml_金鹰资源","name":"💡金鹰资源┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/jyzy.json"},
 {"key":"csp_LiteApple","name":"🍎小苹果┃推荐","type":3,"api":"csp_LiteApple","timeout":10,"searchable":1,"quickSearch":1,"changeable":1, "ext":"{\"jar\":\"https://gitee.com/test3210/test/raw/master/sub/jar/fan.jar;md5;fe5929df64eb2358effeb032359732e5\"}"},
-{"key":"csp_Kekys","name":"👻可可┃推荐","type":3,"api":"csp_Kekys", "searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kekys","name":"👻可可┃推荐","type":3,"api":"csp_Kekys", "searchable":1,"quickSearch":1,"filterable":1,"ext":"{\"siteUrl\":\"https://www.keke1.app\",\"picUrl\":\"https://vres.dgmckj.com\"}"},
 {"key":"csp_Ikanbot","name":"🌈爱看机器人┃推荐","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_xml_爱看机器人","name":"🌤爱看机器人┃推荐","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/ikanbot.json"},
 {"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
