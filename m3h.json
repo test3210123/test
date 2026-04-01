@@ -3,10 +3,11 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee.com/test3210/test/raw/master/md/cu.json",
-"spider":"https://gitee.com/test3210/apk/raw/master/jar/1125.jar;md5;0154b5530d2b395f7dc2e9690ecd561f",
+"spider":"https://gitee.com/test3210/apk/raw/master/jar/0401.jar;md5;505aebb0525905ef0410967100037313",
 "lives":[{"name":"live-yd","type":0,"url":"http://127.0.0.1:9978/proxy?do=myLive&type=txt&u=aHR0cHM6Ly9naC1wcm94eS5uZXQvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1eHVhbmcvbXlJUFRWL21haW4vaXB2NC5tM3U&dl=tv3h&t=250629","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/test3210/testlogo/raw/master/logo/{name}.png"}],
 "sites": [
-{"key":"csp_Kekys","name":"👻可可┃推荐","type":3,"api":"csp_Kekys", "searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kekys","name":"👻可可┃推荐","type":3,"api":"csp_Kekys", "searchable":1,"quickSearch":1,"filterable":1,"ext":"{\"siteUrl\":\"https://www.keke1.app\",\"picUrl\":\"https://vres.dgmckj.com\"}"},
 {"key":"csp_SP360","name":"360┃推荐","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
 {"key":"csp_Ikanbot","name":"🌈爱看机器人┃推荐","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果┃推荐","type":3,"api":"csp_LiteApple","timeout":10,"searchable":1,"quickSearch":1,"changeable":1, "ext":"{\"jar\":\"https://gitee.com/test3210/test/raw/master/sub/jar/fan.jar;md5;fe5929df64eb2358effeb032359732e5\"}"},
@@ -23,13 +24,19 @@
 {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
 
+//{"key":"csp_xml_天空资源","name":"🐝天空资源┃搜索","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_xml_U酷资源","name":"🐝U酷资源┃搜索","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_量子资源","name":"🐝量子资源┃搜索","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_无尽资源","name":"🐝无尽资源┃搜索","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_卧龙资源","name":"🐝卧龙资源┃搜索","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_xml_追风","name":"🐝追风资源┃搜索","type":1,"api":"http://www.zfsp.cc/api.php/provide/vod","searchable":1,"changeable":1,"timeout":10},
+//{"key":"csp_xml_飞速采集","name":"🐝飞速采集┃搜索","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_NCat","name":"\uD83D\uDE3C 网飞猫┃影视","api":"csp_NCat","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Dm84","name":"🍀动漫巴士┃影视","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"csp_NCat","name":"\uD83D\uDE3C 网飞猫┃影视","api":"csp_NCat","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Dm84","name":"🍀动漫巴士┃影视","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://dmbus.cc"},
 {"key":"csp_xbb_voflix","name":"🍀Voflix HD┃影视","type":3,"api":"csp_XBiubiu","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/voflix.json"},
+
+//{"key":"csp_xml_CK资源","name":"🐝CK资源┃搜索","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"csp_xp_Jumi","name":"💢剧迷TV┃备用","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/Jumi.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士2┃备用","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/dm84.json"},
