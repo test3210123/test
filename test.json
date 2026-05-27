@@ -34,7 +34,7 @@
 //{"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kekys","name":"👻可可┃推荐","type":3,"api":"csp_Kekys", "searchable":1,"quickSearch":1,"filterable":1,"ext":"{\"siteUrl\":\"https://www.keke1.app\",\"picUrl\":\"https://www.ikanbot.com\"}"},
 {"key":"csp_SP360","name":"360┃推荐","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
-{"key":"csp_Ikanbot","name":"🌈爱看机器人┃推荐","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"{\"siteUrl\":\"https://www.keke1.app\"}"},
+{"key":"csp_Ikanbot","name":"🌈爱看机器人┃推荐","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"{\"siteUrl\":\"https://www.ikanbot.com\"}"},
 {"key":"csp_LiteApple","name":"🍎小苹果┃推荐","type":3,"api":"csp_LiteApple","timeout":10,"searchable":1,"quickSearch":1,"changeable":1, "ext":"{\"jar\":\"https://gitee.com/test3210/test/raw/master/sub/jar/fan.jar;md5;fe5929df64eb2358effeb032359732e5\"}"},
 {"key":"csp_xml_非凡资源","name":"👀非凡资源┃推荐","type":3,"api":"csp_MacCms10","searchable":1,"quickSearch":1,"ext":"./sub/MeowMac/ffzy.json"},
 {"key":"csp_xml_金鹰资源","name":"💡金鹰资源┃推荐","type":3,"api":"csp_MacCms10","searchable":1,"quickSearch":1,"ext":"./sub/MeowMac/jyzy.json"},
