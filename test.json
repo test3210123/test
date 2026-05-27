@@ -28,11 +28,11 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee.com/test3210/test/raw/master/md/cu.json",
-"spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;52a9cd93f671c2320e18be8ef8992111",
+"spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;2b631cd31481ed02cbd9ae071029b560",
 "lives":[{"name":"live-yd","type":0,"url":"http://127.0.0.1:9978/proxy?do=myLive&type=txt&u=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL3Rlc3QzMjEwMTIzL3Rlc3RAbWFzdGVyL3N1Yi9saXZlMy9iai50eHQ&ch=L3N1Yi9saXZlMy9jaC50eHQ&dl=tv3b&t=251019","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/test3210/testlogo/raw/master/logo/{name}.png"}],
 "sites": [
 //{"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kekys","name":"👻可可┃推荐","type":3,"api":"csp_Kekys", "searchable":1,"quickSearch":1,"filterable":1,"ext":"{\"siteUrl\":\"https://www.keke1.app\",\"picUrl\":\"https://www.ikanbot.com\"}"},
+{"key":"csp_Kekys","name":"👻可可┃推荐","type":3,"api":"csp_Kekys", "searchable":1,"quickSearch":1,"filterable":1,"ext":"{\"siteUrl\":\"https://www.keke1.app\",\"picUrl\":\"https://vres.dgmckj.com\"}"},
 {"key":"csp_SP360","name":"360┃推荐","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
 {"key":"csp_Ikanbot","name":"🌈爱看机器人┃推荐","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"{\"siteUrl\":\"https://www.ikanbot.com\"}"},
 {"key":"csp_LiteApple","name":"🍎小苹果┃推荐","type":3,"api":"csp_LiteApple","timeout":10,"searchable":1,"quickSearch":1,"changeable":1, "ext":"{\"jar\":\"https://gitee.com/test3210/test/raw/master/sub/jar/fan.jar;md5;fe5929df64eb2358effeb032359732e5\"}"},
