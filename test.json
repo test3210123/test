@@ -28,7 +28,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "cu":"https://gitee.com/test3210/test/raw/master/md/cu.json",
-"spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;0c0d543f6976fb05ce660e8ae5b66f93",
+"spider":"https://gitee.com/test3210/CatVodSpider/raw/master/jar/custom_spider.jar;md5;02b0035ca5c3a93e7bd18dbdd61d7b63",
 "lives":[{"name":"live-yd","type":0,"url":"http://127.0.0.1:9978/proxy?do=myLive&type=txt&u=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL3Rlc3QzMjEwMTIzL3Rlc3RAbWFzdGVyL3N1Yi9saXZlMy9iai50eHQ&ch=L3N1Yi9saXZlMy9jaC50eHQ&dl=tv3b&t=251019","playerType":1,"epg":"http://127.0.0.1:9978/proxy?do=myEpg&ch={name}&date={date}&url=aHR0cDovL2VwZy41MXptdC50b3A6ODAwMC9hcGkvZGl5cC8/Y2g9e25hbWV9JmRhdGU9e2RhdGV9","logo":"https://gitee.com/test3210/testlogo/raw/master/logo/{name}.png"}],
 "sites": [
 //{"key":"csp_Kuaikan","name":"👀快看┃推荐","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
