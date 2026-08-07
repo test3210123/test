@@ -201,8 +201,8 @@
         "ruleSearch": {
             "author": "class._searchBookAuthor_lrbl7_429@text",
             "bookList": "class.y-list__item",
-            "bookUrl": "a[data-bid]@data-bid##^##https://m.qidian.com/book/",
-            "coverUrl": "a[data-bid]@data-bid##(\\d+)##//bookcover.yuewen.com/qdbimg/349573/$1/180",
+            "bookUrl": "a[data-bid]@data-bid##(\\d+)##https://m.qidian.com/book/$1/",
+            "coverUrl": "a[data-bid]@data-bid##(\\d+)##https://bookcover.yuewen.com/qdbimg/349573/$1/180",
             "intro": "class._searchBookDesc_lrbl7_337@text",
             "kind": "class._tags_lrbl7_516@tag.p.0@text",
             "lastChapter": "class._tags_lrbl7_516@tag.p.1@text",
@@ -261,7 +261,7 @@
         "ruleSearch": {
             "author": "class.book-author@text",
             "bookList": "class.book-li",
-            "bookUrl": "class.book-layout@href##//m.qdmm.com/chapter/(\\d+)/\\d+/##https://m.qdmm.com/book/$1",
+            "bookUrl": "class.book-layout@href##//m.qdmm.com/chapter/(\\d+)/\\d+/##https://m.qdmm.com/book/$1/",
             "coverUrl": "class.book-layout@href##//m.qdmm.com/chapter/(\\d+)/\\d+/##https://bookcover.yuewen.com/qdbimg/349573/$1/180",
             "intro": "class.book-desc@text",
             "kind": "class.book-meta-r@tag.em.0@text",
@@ -1426,7 +1426,7 @@
     },
     {
         "bookSourceComment": "纯发现源",
-        "bookSourceGroup": "20240928,搜索链接规则为空",
+        "bookSourceGroup": "20240928",
         "bookSourceName": "视图杂志（发现）",
         "bookSourceType": 0,
         "bookSourceUrl": "https://open3.vistastory.com",
@@ -4494,7 +4494,7 @@
     },
     {
         "bookSourceComment": "",
-        "bookSourceGroup": "20240928,搜索链接规则为空",
+        "bookSourceGroup": "20240928",
         "bookSourceName": "七彩英语（英语）",
         "bookSourceType": 3,
         "bookSourceUrl": "http://www.qcenglish.com",
@@ -4806,7 +4806,7 @@
     },
     {
         "bookSourceComment": "// Error: 发现失效\n\n2024.5.8\n看一些图书\nby墨殇",
-        "bookSourceGroup": "20240928,发现失效",
+        "bookSourceGroup": "20240928",
         "bookSourceName": "读书网吧",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.dushu.com/",
@@ -7152,7 +7152,7 @@
     },
     {
         "bookSourceComment": "",
-        "bookSourceGroup": "20240928,搜索链接规则为空",
+        "bookSourceGroup": "20240928",
         "bookSourceName": "求书网吧（发现）",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.booksos.net",
@@ -8850,7 +8850,7 @@
     },
     {
         "bookSourceComment": "",
-        "bookSourceGroup": "20240928,搜索链接规则为空",
+        "bookSourceGroup": "20240928",
         "bookSourceName": "笔趣阁（发现）",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.whzh-cw.com",
@@ -10343,7 +10343,7 @@
     },
     {
         "bookSourceComment": "",
-        "bookSourceGroup": "20240928,搜索链接规则为空",
+        "bookSourceGroup": "20240928",
         "bookSourceName": "牡云文学（发现）",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.myitit.com",
