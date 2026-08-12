@@ -1,0 +1,10 @@
+{
+  "tv": {
+    "version": "2.0.0",
+    "url": "https://fastly.jsdelivr.net/gh/test3210123/apk@master/apk/TVBox20260227-liu.apk"
+  },
+  "mobile": {
+    "version": "2.0.0",
+    "url": "https://fastly.jsdelivr.net/gh/test3210123/apk@master/apk/TVBox20260227-liu.apk"
+  }
+}
